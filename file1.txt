@@ -4,4 +4,5 @@ WI1 related !!
 
 WI2 related!!
 
-change 1 :from remote changes are made 
+change 1 :from remote changes are made by team member to test rebase
+chnage 8: to test with conflict made change on remote CR1
